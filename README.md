@@ -1,1 +1,1 @@
-"# pchome_mysql" 
+透過python建置mysql資料庫與查詢功能
