@@ -1,1 +1,5 @@
-透過python建置mysql資料庫與查詢功能
+爬PCHOME商品資訊與價格，並存入mysql資料庫
+===
+建構資料庫<br> 
+爬蟲<br> 
+查詢mysql資料庫<br> 
